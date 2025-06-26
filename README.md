@@ -12,4 +12,7 @@ git clone git@github.com:RareTECH-Event/Docker_event.git
 cp .env.example .env
 ```
 
-
+## その他
+VSCodeのMarp for VS Codeをインストールしてbase.mdを開くとスライドを表示できます。
+インストールはこちらから。
+https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode
