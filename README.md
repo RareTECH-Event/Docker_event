@@ -7,7 +7,12 @@ Dockerハンズオンイベント用リポジトリです。
 git clone git@github.com:RareTECH-Event/Docker_event.git
 ```
 
-2. .envを作成
+2. /Docker_eventに移動
+```bash
+cd Docker_event
+```
+
+3. .envを作成
 ```bash
 cp .env.example .env
 ```
